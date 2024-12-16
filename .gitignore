@@ -1,0 +1,4 @@
+.env
+venv
+analytics_token.json
+client_secret_google_analytics.json
